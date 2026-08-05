@@ -62,7 +62,7 @@ A smart travel recommendation platform using semantic search and vector database
 
 **Tech Stack**
 
-Python • FastAPI • Sentence Transformers • Vector Database
+HTML,CSS,JS • FastAPI • Python  • Groq
 
 ---
 
@@ -92,17 +92,13 @@ A productivity and habit-tracking application that helps users build positive da
 
 **Tech Stack**
 
-React • JavaScript • CSS • Local Storage
+HTML • JavaScript • CSS • Local Storage
 
 ---
 
 ## 🌱 Currently Learning
 
-☁️ AWS Cloud
-
 🔐 JWT Authentication
-
-🏗️ Microservices
 
 📐 System Design
 
