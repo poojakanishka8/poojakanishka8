@@ -3,54 +3,44 @@
 <h3 align="center">💻 Full Stack Developer | ☕ Java Developer | 🤖 AI Enthusiast</h3>
 
 <p align="center">
-Passionate about building scalable web applications, AI-powered solutions, and IoT systems that solve real-world problems.
+Passionate about building modern web applications, AI-powered solutions, and software that solves real-world problems.
 </p>
 
 ---
 
-## 🚀 About Me
+## 🌸 About Me
 
-* 🎓 B.E. Computer Science & Engineering Student (2023–2027)
-* 🏫 VSB Engineering College, Tamil Nadu
-* ☕ Strong interest in Java, Spring Boot & Backend Development
-* 🌐 Building Full Stack applications with React
-* 🤖 Exploring Artificial Intelligence & Machine Learning
-* ☁️ Currently learning AWS & Cloud Technologies
-* 🎯 Goal: Become a Software Engineer building impactful products
+🎓 B.E. Computer Science and Engineering Student (2023–2027)
 
----
+🏫 VSB Engineering College, Tamil Nadu
 
-## 🌱 Currently Learning
+💻 Passionate about Full Stack Development
 
-* Spring Security
-* JWT Authentication
-* Docker
-* AWS Cloud
-* Microservices
-* System Design
-* Advanced SQL & DSA
+☕ Java Backend Developer
+
+🤖 Interested in Artificial Intelligence & Machine Learning
+
+🌐 Building responsive and user-friendly web applications
+
+🎯 Goal: Build impactful software and grow as a Software Engineer.
 
 ---
 
-# 🛠️ Tech Stack
+## 🌈 Current Focus
 
-### 💻 Languages
+💻 Full Stack Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,mysql" />
-</p>
+☕ Java Backend Development
 
-### ⚙️ Frameworks & Libraries
+🤖 AI Powered Applications
 
-<p>
-<img src="https://skillicons.dev/icons?i=spring,react,bootstrap,fastapi" />
-</p>
+☁️ AWS & Cloud Computing
 
-### ☁️ Tools & Platforms
+💡 Data Structures & Algorithms
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,maven,docker,aws" />
-</p>
+📚 Continuous Learning
+
+> **"Learn consistently. Build confidently. Grow every day."**
 
 ---
 
@@ -58,45 +48,117 @@ Passionate about building scalable web applications, AI-powered solutions, and I
 
 ## 🤖 ViralAI – AI Social Media Content Generator
 
-Generate AI-powered social media content with analytics, saved history, and a modern dashboard.
+An AI-powered platform that generates engaging social media content with analytics, content history, and a modern dashboard.
 
-**Tech Stack:** React • FastAPI • Python • Groq AI • MySQL
+**Tech Stack**
 
----
-
-## 💧 AI-Enabled Smart Water Management System
-
-IEEE project using ESP32 for water monitoring, leak detection, automatic pump control, and AI-based water usage prediction.
-
-**Tech Stack:** ESP32 • Python • IoT • Machine Learning
+React • FastAPI • Python • Groq AI • MySQL
 
 ---
 
 ## 🌍 AI Travel Recommendation System
 
-Intelligent travel recommendation platform using semantic search and vector databases.
+A smart travel recommendation platform using semantic search and vector databases to recommend personalized destinations.
 
-**Tech Stack:** Python • FastAPI • Sentence Transformers • Vector Database
+**Tech Stack**
+
+Python • FastAPI • Sentence Transformers • Vector Database
 
 ---
 
 ## 🎬 SemanticFlix
 
-AI-powered movie recommendation platform with personalized suggestions.
+An AI-powered movie recommendation platform that delivers personalized movie suggestions.
 
-**Tech Stack:** React • AI APIs • JavaScript
+**Tech Stack**
+
+React • JavaScript • AI APIs
 
 ---
 
 ## 🥗 NutriAI Smart Cart Optimizer
 
-Smart grocery recommendation system that suggests healthier alternatives using AI.
+An intelligent grocery recommendation system that helps users choose healthier food alternatives using AI.
 
-**Tech Stack:** React • Python • AI APIs
+**Tech Stack**
+
+React • Python • AI APIs
 
 ---
 
-# 📊 GitHub Statistics
+## 🌱 Habit Garden
+
+A productivity and habit-tracking application that helps users build positive daily habits, monitor progress, and maintain consistency through a clean and interactive interface.
+
+**Tech Stack**
+
+React • JavaScript • CSS • Local Storage
+
+---
+
+## 🌱 Currently Learning
+
+☁️ AWS Cloud
+
+🔐 JWT Authentication
+
+🏗️ Microservices
+
+📐 System Design
+
+📊 SQL
+
+🧠 Data Structures & Algorithms
+
+---
+
+## ✨ What I Enjoy Building
+
+🌐 Full Stack Web Applications
+
+🤖 AI Powered Solutions
+
+⚡ REST APIs
+
+📱 Responsive User Interfaces
+
+🗄️ Database Driven Applications
+
+☕ Java Backend Applications
+
+---
+
+## 🏆 Achievements
+
+🚀 Built Multiple Full Stack Projects
+
+🤖 Developed AI-Powered Applications
+
+☕ Strong Foundation in Java Backend Development
+
+💡 Passionate About Building Real-World Solutions
+
+📚 Continuous Learning & Problem Solving
+
+---
+
+## 💡 Interests
+
+🤖 Artificial Intelligence
+
+☕ Java Backend Development
+
+🌐 Full Stack Web Development
+
+📱 Responsive Web Applications
+
+🗄️ Database Management
+
+☁️ Cloud Computing
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
 
@@ -108,27 +170,7 @@ Smart grocery recommendation system that suggests healthier alternatives using A
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=poojakanishka8&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=poojakanishka8&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
 
@@ -138,53 +180,54 @@ Smart grocery recommendation system that suggests healthier alternatives using A
 
 ---
 
-# 🎯 2026 Goals
+## 🌈 Let's Connect
 
-* ✅ Crack a Product-Based Company
-* ✅ Solve 500+ DSA Problems
-* ✅ Master Spring Boot
-* ✅ Learn AWS
-* ✅ Publish IEEE Research Project
-* ✅ Contribute to Open Source
-* ✅ Build AI-powered SaaS Projects
+💼 LinkedIn: https://linkedin.com/in/your-linkedin
 
----
+🌐 Portfolio: https://your-portfolio-link
 
-# 💡 Interests
+📧 Email: [your-email@example.com](mailto:your-email@example.com)
 
-* 🤖 Artificial Intelligence
-* ☕ Java Backend Development
-* 🌐 Full Stack Development
-* ☁️ Cloud Computing
-* 📱 Responsive Web Applications
-* 🗄️ Database Design
+💻 LeetCode: https://leetcode.com/your-username
+
+🐙 GitHub: https://github.com/poojakanishka8
 
 ---
 
-# 📫 Connect With Me
+## 💼 Open to Opportunities
 
-* 💼 LinkedIn: https://linkedin.com/in/your-linkedin
-* 🌐 Portfolio: https://your-portfolio-link
-* 📧 Email: [your-email@example.com](mailto:poojakanishka8@gmail.com)
-* 💻 LeetCode: https://leetcode.com/u/poojakanishkac/
+I'm currently looking for opportunities in:
 
----
+💻 Software Engineering
 
-# 🌸 Fun Facts
+☕ Java Backend Development
 
-* 🎨 I enjoy painting.
-* 💚 Favorite color: Green.
-* 📚 I love learning new technologies.
-* 💡 I enjoy building projects that solve real-world problems.
+🌐 Full Stack Development
+
+🤖 Artificial Intelligence
+
+☁️ Cloud Technologies
 
 ---
 
-# 💬 Favorite Quote
+## 🌸 Fun Facts
 
-> **"Consistency builds expertise. Curiosity drives innovation."**
+🎨 I enjoy Painting
+
+💚 Favorite Color: Green
+
+📚 Love Learning New Technologies
+
+💡 Enjoy Building Real-World Applications
+
+---
+
+## 💬 Favorite Quote
+
+> **"Code with purpose. Learn with curiosity. Build with confidence."**
 
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile! If you like my work, consider starring my repositories.
+⭐ Thanks for visiting my GitHub profile! Feel free to explore my repositories and connect with me.
 </p>
