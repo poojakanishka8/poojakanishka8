@@ -1,229 +1,163 @@
-# <h1 align="center">Hi 👋, I'm Pooja Chandrashekaran</h1>
+# 🌿 Hello, I'm **Pooja Chandrashekaran**
 
-<h3 align="center">💻 Full Stack Developer | ☕ Java Developer | 🤖 AI Enthusiast</h3>
+### 💻 Full Stack Developer • ☕ Java Developer • 🤖 AI & Web Enthusiast
 
-<p align="center">
-Passionate about building modern web applications, AI-powered solutions, and software that solves real-world problems.
-</p>
+Building modern, scalable, and user-friendly applications with **Java**, **Spring Boot**, **React**, and **Artificial Intelligence** to solve real-world problems.
 
 ---
 
 ## 🌸 About Me
 
-🎓 B.E. Computer Science and Engineering Student (2023–2027)
+🎓 Computer Science Engineering Student (2023–2027)
 
-🏫 VSB Engineering College, Tamil Nadu
+💻 Passionate about Full Stack Web Development
 
-💻 Passionate about Full Stack Development
+☕ Java & Spring Boot Backend Developer
 
-☕ Java Backend Developer
+🗄️ SQL & Database Enthusiast
 
-🤖 Interested in Artificial Intelligence & Machine Learning
+🤖 Exploring Artificial Intelligence & Smart Applications
 
-🌐 Building responsive and user-friendly web applications
+🌱 Always learning new technologies and building meaningful projects
 
-🎯 Goal: Build impactful software and grow as a Software Engineer.
+🎯 **Goal:** To start my career as a Software Engineer and create impactful software solutions.
 
 ---
 
-## 🌈 Current Focus
+## 🚀 Current Focus
 
-💻 Full Stack Development
+* 💻 Full Stack Development
+* ☕ Java & Spring Boot
+* 🗄️ SQL & Database Design
+* 🤖 AI-Powered Applications
+* 💡 Data Structures & Algorithms
+* 📚 Continuous Learning
 
-☕ Java Backend Development
-
-🤖 AI Powered Applications
-
-☁️ AWS & Cloud Computing
-
-💡 Data Structures & Algorithms
-
-📚 Continuous Learning
-
-> **"Learn consistently. Build confidently. Grow every day."**
+> **"Learn. Build. Improve. Repeat."**
 
 ---
 
 # 🚀 Featured Projects
 
-## 🤖 ViralAI – AI Social Media Content Generator
+### 🌱 Habit Garden
 
-An AI-powered platform that generates engaging social media content with analytics, content history, and a modern dashboard.
-
-**Tech Stack**
-
-React • FastAPI • Python • Groq AI • MySQL
-
----
-
-## 🌍 AI Travel Recommendation System
-
-A smart travel recommendation platform using semantic search and vector databases to recommend personalized destinations.
+A gamified habit-tracking web application where a virtual plant grows as users maintain their daily habit streaks.
 
 **Tech Stack**
 
-HTML,CSS,JS • FastAPI • Python  • Groq
+`HTML5` • `CSS3` • `JavaScript` • `Local Storage`
 
 ---
 
-## 🎬 SemanticFlix
+### 🤖 ViralAI Dashboard
 
-An AI-powered movie recommendation platform that delivers personalized movie suggestions.
+An AI-powered content generation dashboard that helps users create and manage engaging social media content efficiently.
 
 **Tech Stack**
 
-React • JavaScript • AI APIs
+`FastAPI` • `JavaScript` • `MySQL` • `REST API`
 
 ---
 
-## 🥗 NutriAI Smart Cart Optimizer
+### ✈️ AI Travel Recommendation System
 
-An intelligent grocery recommendation system that helps users choose healthier food alternatives using AI.
+An intelligent travel recommendation platform using semantic search and AI embeddings to provide personalized destination suggestions.
 
 **Tech Stack**
 
-React • Python • AI APIs
+`Python` • `FastAPI` • `Sentence Transformers` • `Vector Database`
 
 ---
 
-## 🌱 Habit Garden
+### ☕ Procurement Management System
 
-A productivity and habit-tracking application that helps users build positive daily habits, monitor progress, and maintain consistency through a clean and interactive interface.
+A full-stack procurement management application with secure CRUD operations and an intuitive user interface.
 
 **Tech Stack**
 
-HTML • JavaScript • CSS • Local Storage
+`Spring Boot` • `React` • `MySQL`
 
 ---
 
-## 🌱 Currently Learning
+## 🧰 Tech Stack
 
-🔐 JWT Authentication
+### 💻 Languages
 
-📐 System Design
+`Java` • `SQL` • `JavaScript` • `Python` • `HTML5` • `CSS3`
 
-📊 SQL
+### ⚙️ Frameworks & Libraries
 
-🧠 Data Structures & Algorithms
+`Spring Boot` • `React` • `Bootstrap`
+
+### 🗄️ Database
+
+`MySQL`
+
+### 🛠️ Tools
+
+`Git` • `GitHub` • `VS Code` • `IntelliJ IDEA` • `Postman`
+
+### 🌱 Currently Learning
+
+`Advanced SQL` • `Spring Boot` • `React` • `REST APIs` • `DSA`
 
 ---
 
-## ✨ What I Enjoy Building
+## ✨ What I Love Building
 
-🌐 Full Stack Web Applications
+🌐 Responsive Web Applications
 
-🤖 AI Powered Solutions
+🤖 AI-Powered Solutions
 
 ⚡ REST APIs
 
-📱 Responsive User Interfaces
+📱 Modern User Interfaces
 
-🗄️ Database Driven Applications
+🗄️ Database-Driven Applications
 
-☕ Java Backend Applications
-
----
-
-## 🏆 Achievements
-
-🚀 Built Multiple Full Stack Projects
-
-🤖 Developed AI-Powered Applications
-
-☕ Strong Foundation in Java Backend Development
-
-💡 Passionate About Building Real-World Solutions
-
-📚 Continuous Learning & Problem Solving
+🎨 Interactive Frontend Experiences
 
 ---
 
-## 💡 Interests
+# 🏆 Highlights
 
-🤖 Artificial Intelligence
+✨ Built multiple Full Stack projects
 
-☕ Java Backend Development
+🤖 Developed AI-integrated applications
 
-🌐 Full Stack Web Development
+☕ Strong foundation in Java & SQL
 
-📱 Responsive Web Applications
+🌱 Passionate about continuous learning
 
-🗄️ Database Management
-
-☁️ Cloud Computing
+💡 Love solving real-world problems through technology
 
 ---
 
-## 📊 GitHub Statistics
+# 🌍 Let's Connect
 
-<p align="center">
+📧 **Email:** [your-email@example.com](mailto:your-email@example.com)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=poojakanishka8&show_icons=true&theme=tokyonight&hide_border=true"/>
+💼 **LinkedIn:** linkedin.com/in/your-profile
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poojakanishka8&layout=compact&theme=tokyonight&hide_border=true"/>
+💻 **GitHub:** github.com/poojakanishka8
 
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=poojakanishka8&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
+🌐 **Portfolio:** your-portfolio-link
 
 ---
 
-## 🌈 Let's Connect
+# 💼 Open to Opportunities
 
-💼 LinkedIn: https://linkedin.com/in/your-linkedin
+I'm actively seeking opportunities in:
 
-🌐 Portfolio: https://your-portfolio-link
-
-📧 Email: [your-email@example.com](mailto:your-email@example.com)
-
-💻 LeetCode: https://leetcode.com/your-username
-
-🐙 GitHub: https://github.com/poojakanishka8
+* 💻 Software Engineering
+* ☕ Java Development
+* 🚀 Full Stack Development
+* 🤖 AI & Intelligent Applications
 
 ---
 
-## 💼 Open to Opportunities
+## 🌸 Thanks for Visiting!
 
-I'm currently looking for opportunities in:
+> **"Turning ideas into impactful software, one project at a time."**
 
-💻 Software Engineering
-
-☕ Java Backend Development
-
-🌐 Full Stack Development
-
-🤖 Artificial Intelligence
-
-☁️ Cloud Technologies
-
----
-
-## 🌸 Fun Facts
-
-🎨 I enjoy Painting
-
-💚 Favorite Color: Green
-
-📚 Love Learning New Technologies
-
-💡 Enjoy Building Real-World Applications
-
----
-
-## 💬 Favorite Quote
-
-> **"Code with purpose. Learn with curiosity. Build with confidence."**
-
----
-
-<p align="center">
-⭐ Thanks for visiting my GitHub profile! Feel free to explore my repositories and connect with me.
-</p>
+⭐ *If you enjoy my projects, consider giving them a star! It motivates me to keep building and learning.*
